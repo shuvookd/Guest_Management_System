@@ -48,8 +48,8 @@ This is a Microsoft PowerApps-based Guest Management System developed for **RAK 
 
 For any technical support or questions about the app, please contact:
 
-**Developer**: [Shuvo Kumar Das]
-**Email**: [shuvokd1210@gmail.com] 
+- **Developer**: [Shuvo Kumar Das]
+- **Email**: [shuvokd1210@gmail.com] 
 
 ---
 
