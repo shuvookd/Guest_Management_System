@@ -38,7 +38,7 @@ This is a Microsoft PowerApps-based Guest Management System developed for **RAK 
 
 ## ⚙️ Installation & Deployment
 
-> *(Optional section if others want to deploy or test the app – include steps like environment setup, data source configuration, and importing the PowerApps package)*
+- Installed and Developed on Client's portal.
 
 ## 📧 Contact
 
