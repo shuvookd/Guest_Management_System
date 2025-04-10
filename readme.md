@@ -28,7 +28,7 @@ This is a Microsoft PowerApps-based Guest Management System developed for **RAK 
 
 ## 📸 Screenshots
 
-> *(Add screenshots of the dashboard, guest entry, and email notifications here if available)*
+![Image](https://github.com/user-attachments/assets/a24b48a7-d29f-49ee-8d1a-ab166f5bfc92)
 
 ## 🔐 Access and Roles
 
