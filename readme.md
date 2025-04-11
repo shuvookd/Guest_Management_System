@@ -1,4 +1,4 @@
-# RAK Ceramics Guest Management System
+# Guest Management System
 
 This is a Microsoft PowerApps-based Guest Management System developed for **RAK Ceramics**. The application streamlines guest entry, meeting scheduling, and host notifications using a simple, intuitive interface integrated with QR code scanning and email notifications.
 
@@ -48,8 +48,10 @@ This is a Microsoft PowerApps-based Guest Management System developed for **RAK 
 
 For any technical support or questions about the app, please contact:
 
-- **Developer**: [Shuvo Kumar Das]
-- **Email**: [shuvokd1210@gmail.com] 
+- **Developer**:
+-  Shuvo Kumar Das
+- 📧 [shuvokd1210@gmail.com]
+- 🌐 [https://www.linkedin.com/in/shuvookd/]
 
 ---
 
